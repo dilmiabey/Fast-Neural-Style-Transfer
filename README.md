@@ -1,5 +1,5 @@
 # Fast-Neural-Style-Transfer
-A PyTorch implementation of the fast neural style transfer as proposed by [Johnson et. al.](https://arxiv.org/abs/1603.08155)
+A PyTorch implementation of the fast neural style transfer as proposed by [*Johnson et al.](https://arxiv.org/abs/1603.08155)
 
 ## Style Image
 The Great Wave of Kanagawa by Hokusai
@@ -16,6 +16,6 @@ I made use of the MS COCO dataset ‘2017 test images’ which is a dataset cons
 This implementation makes use of the pre-trained VGG-19 model. Further 'Adam' is used as the optimzier for the image transformation network with a learning rate of 0.001. The content and style weights used for this project are 1 and 12 respectively.
 
 ## Attributions
-* [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/abs/1603.08155)
+* Perceptual Losses for Real-Time Style Transfer and Super-Resolution by [*Johnson et al.](https://arxiv.org/abs/1603.08155)
 * Rusty Mina's [fast-neural-style: Fast Style Transfer in Pytorch!](https://github.com/rrmina/fast-neural-style-pytorch)
 
