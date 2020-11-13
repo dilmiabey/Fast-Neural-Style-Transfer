@@ -2,7 +2,8 @@
 A PyTorch implementation of the fast neural style transfer as proposed by [Johnson et. al.](https://arxiv.org/abs/1603.08155)
 
 ## Style Image
-![The Great Wave of Kanagawa by Hokusai](https://github.com/dilmiabey/Fast-Neural-Style-Transfer/blob/master/style_image/great_wave.jpg)
+The Great Wave of Kanagawa by Hokusai
+![](https://github.com/dilmiabey/Fast-Neural-Style-Transfer/blob/master/style_image/great_wave.jpg)
 
 
 ## Stylized output
